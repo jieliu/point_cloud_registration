@@ -14,3 +14,4 @@ NOTE:
    
 Requirement:
        CMKAE, PCL lib
+       When scan the data, the first view must be the overlapping area.
